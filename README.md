@@ -1,3 +1,3 @@
-# MobileBankingApp
+# MobileBankingApp Prototype
 
 ![CharuzuBankngApp-Signup-Page](https://github.com/user-attachments/assets/65457dc3-225c-47dc-b018-1c996433ccc2) ![CharuzuBankngApp-Home-Page](https://github.com/user-attachments/assets/3460739c-44b0-436d-87ce-01f26c378f22) ![CharuzuBankngApp-Transfer-Money-Page](https://github.com/user-attachments/assets/d7bdc322-cfbc-41b3-9ced-74964e16c154) ![CharuzuBankngApp-Confirmation-Page](https://github.com/user-attachments/assets/12829d6c-30c7-41c2-a39b-2dfd62a72b8c) ![CharuzuBankngApp-Transaction-Page](https://github.com/user-attachments/assets/b39fba47-32d0-43df-89f4-368733e6d3e1)
